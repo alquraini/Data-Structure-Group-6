@@ -1,5 +1,5 @@
-- Nama: 
-- NIM: 
-- Level Difficulty: 
-- Problem Link: 
-- Short Approach Summary: 
+- Nama: Nadya Kezia Goergina Shallom Toban
+- NIM: D121241002
+- Level Difficulty: Medium
+- Problem Link: https://www.hackerrank.com/challenges/game-of-two-stacks/problem?isFullScreen=true
+- Short Approach Summary: Mulai dengan mengambil sebanyak mungkin elemen dari tumpukan A tanpa melebihi batas maxSum.  Setelah itu, coba tambahkan elemen dari tumpukan B satu per satu, sambil melepas elemen dari A jika jumlah total melebihi maxSum. Selama proses ini, catat jumlah maksimum elemen yang bisa diambil dari kedua tumpukan.
