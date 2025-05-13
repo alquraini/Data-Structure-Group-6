@@ -2,4 +2,4 @@
 - NIM: D121241098
 - Level Difficulty: Easy
 - Problem Link: https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
-- Short Approach Summary: 
+- Short Approach Summary: Masalah ini adalah mencari simpul tengah dari daftar tertaut tunggal. Jika jumlah simpul ganjil, kembalikan simpul tengah. Jika genap, kembalikan simpul tengah kedua. Contohnya, pada daftar 1 -> 2 -> 3 -> 4 -> 5, simpul tengahnya adalah 3. Pada daftar 10 -> 20 -> 30 -> 40 -> 50 -> 60, simpul tengah kedua adalah 40.
