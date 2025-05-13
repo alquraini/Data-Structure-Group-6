@@ -1,5 +1,5 @@
-- Nama: 
-- NIM: 
+- Nama: Ahmad Nur Alim
+- NIM: D121241023
 - Level Difficulty: 
 - Problem Link: 
 - Short Approach Summary: 
