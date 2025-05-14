@@ -2,4 +2,4 @@
 - NIM: D121241038
 - Level Difficulty: 800 (easy)
 - Problem Link: https://www.codechef.com/practice/course/interview-dsa/DSAPREP_09/problems/NEC
-- Short Approach Summary: Masalah ini menganalogikan kalung sebagai array dengan k sebagai gerak rotasi elemen dalam kalung untuk memperoleh output (tampilan kalung) setelah mengalami rotasi. Geser k elemen pertama dari array (kalung) ke posisi akhir, seolah melakukan rotasi ke kiri sebanyak k langkah.
+- Short Approach Summary: Masalah ini menganalogikan array sebagai kalung dengan k sebagai gerak rotasi elemen dalam kalung untuk memperoleh output (tampilan kalung) setelah mengalami rotasi. Geser k elemen pertama dari array (kalung) ke posisi akhir, seolah melakukan rotasi ke kiri sebanyak k langkah.
