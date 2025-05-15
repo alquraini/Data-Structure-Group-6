@@ -5,13 +5,6 @@ using namespace std;
 string ltrim(const string &);
 string rtrim(const string &);
 vector<string> split(const string &);
-
-/*
- * Complete the 'componentsInGraph' function below.
- *
- * The function is expected to return an INTEGER_ARRAY.
- * The function accepts 2D_INTEGER_ARRAY gb as parameter.
- */
  
  vector<int> componentsInGraph(vector<vector<int>> gb) {
     int maxNode = 0;
