@@ -230,15 +230,12 @@ return {minSize, maxSize};
 
 ---
 
-Kalau kamu ingin, saya juga bisa bantu ubah ke DFS atau tambahkan visualisasi untuk lebih mempermudah pemahaman. Mau dilanjutkan?
-
 
 
 ###  **Kesimpulan Singkat**
 
 Untuk menyelesaikan masalah pencarian ukuran komponen terkecil dan terbesar pada graph tak berarah, kita menggunakan traversal graph (BFS atau DFS) untuk menjelajahi setiap komponen terhubung. Komponen yang terdiri dari dua node atau lebih dihitung, sementara node tunggal diabaikan. BFS dipilih karena efisien dan mudah diimplementasikan untuk kasus ini. Hasil akhirnya adalah array berisi dua angka: ukuran komponen terkecil dan terbesar. Pendekatan ini cocok untuk graph besar hingga 30.000 node.
 
-Berikut adalah **kesimpulan dalam bentuk poin-poin** agar lebih mudah dipahami:
 
 ---
 
