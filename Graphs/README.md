@@ -1,7 +1,7 @@
 - Nama: Muhammad Fajar Rezki Ramadhan
 - NIM: D121241011
 - Level Difficulty: Medium
-- Problem Link: 
+- Problem Link: https://www.hackerrank.com/challenges/components-in-graph/problem
 - Short Approach Summary:
   
   ###  **Tujuan**
