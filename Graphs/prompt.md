@@ -27,7 +27,7 @@ Soal ini mengharuskan kita mencari **ukuran dari komponen terkecil dan terbesar*
 
 ---
 
-###  **penjelasan singkat**
+###  **Penjelasan Singkat**
 
 *  **Masalah yang diselesaikan**: Mencari ukuran komponen terkecil dan terbesar pada graph tak berarah.
 *  **Komponen dihitung**: Hanya komponen yang memiliki **2 atau lebih node**.
