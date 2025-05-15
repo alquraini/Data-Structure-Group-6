@@ -1,5 +1,5 @@
-- Nama: 
-- NIM: 
-- Level Difficulty: 
+- Nama: Muhammad Fajar Rezki Ramadhan
+- NIM: D121241011
+- Level Difficulty: Medium
 - Problem Link: 
 - Short Approach Summary: 
